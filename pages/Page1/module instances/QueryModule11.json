@@ -9,6 +9,7 @@
     "inputs": {},
     "moduleInputs": {},
     "name": "QueryModule11",
-    "pageId": "Page1"
+    "pageId": "Page1",
+    "version": "v1.0.0"
   }
 }
