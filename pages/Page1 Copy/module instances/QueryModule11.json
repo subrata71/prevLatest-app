@@ -6,10 +6,20 @@
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
     "contextType": "PAGE",
-    "inputs": {},
-    "moduleInputs": {},
+    "inputs": {
+      "limit": "7"
+    },
+    "moduleInputs": {
+      "bjisyyjrzj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "7",
+        "id": "bjisyyjrzj",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      }
+    },
     "name": "QueryModule11",
     "pageId": "Page1 Copy",
-    "version": "v1.0.0"
+    "version": "v2.0.0"
   }
 }
