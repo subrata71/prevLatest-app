@@ -2,5 +2,6 @@
   "moduleName": "JSModule1",
   "moduleUUID": "7dad37ca-f3ae-442d-a93c-2bc2e53a8197",
   "packageName": "Prev Latest Pkg",
-  "packageUUID": "a43e3d03-18bd-4a6c-8eac-620881ac16a5"
+  "packageUUID": "a43e3d03-18bd-4a6c-8eac-620881ac16a5",
+  "version": "v1.0.0"
 }
