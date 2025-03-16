@@ -6,6 +6,6 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ### [Github](https://github.com/appsmithorg/appsmith) • [Docs](https://docs.appsmith.com/?utm_source=github&utm_medium=social&utm_content=appsmith_docs&utm_campaign=null&utm_term=appsmith_docs) • [Community](https://community.appsmith.com/) • [Tutorials](https://github.com/appsmithorg/appsmith/tree/update/readme#tutorials) • [Youtube](https://www.youtube.com/appsmith) • [Discord](https://discord.gg/rBTTVJp)
 
-##### You can visit the application using the below link
+##### You can visit the application using the below linkV2
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://dev.appsmith.com/applications/67d6783a7f366d49012ebdec/pages/67d6783a7f366d49012ebdee) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://dev.appsmith.com/applications/67d6783a7f366d49012ebdec/pages/67d6783a7f366d49012ebdee/edit)
